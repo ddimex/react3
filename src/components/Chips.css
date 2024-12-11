@@ -1,0 +1,22 @@
+.chipContainer{
+    height: 50px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    padding: 3px 24px;
+    margin-left: 12px;
+}
+
+.chips{
+    background-color: #0000000d;
+    width: fit-content;
+    padding: 7px 11px;
+    border-radius: 7.5px;
+}
+
+.chipText{
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin: 0;
+}

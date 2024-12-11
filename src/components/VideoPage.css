@@ -1,0 +1,38 @@
+.flexRow{
+    display: flex;
+}
+
+.flexCol{
+    display: flex;
+    flex-direction: column;
+}
+
+.video2{
+    height:586px;
+    width: 1045px;
+    margin: 25px 24px 0px ;
+    border-radius: 15px;
+    border: 0;
+}
+
+.info3{
+    margin: 0px 24px;
+}
+
+.videoTitle2{
+    font-size: 1.4rem;
+    margin: 10px 0px;
+}
+
+.videoPfp{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+}
+
+.videoSubtitle2{
+    font-size: 1rem;
+    font-weight: 600;
+    color: #0f0f0f;
+    margin: 3.5px 12px;
+}
